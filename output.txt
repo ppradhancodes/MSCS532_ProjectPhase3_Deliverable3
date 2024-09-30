@@ -1,0 +1,35 @@
+Size: 1000, Update Time: 0.05s, Recommend Time: 0.0092s
+Size: 5000, Update Time: 0.45s, Recommend Time: 0.0105s
+Size: 10000, Update Time: 1.07s, Recommend Time: 0.0097s
+Size: 50000, Update Time: 12.83s, Recommend Time: 0.0104s
+Size: 100000, Update Time: 44.11s, Recommend Time: 0.0120s
+Size: 1000
+  Update Time: 0.05s
+  Recommend Time: 0.0092s
+  Update Time Ratio: 0.00
+  Recommend Time Ratio: 1.00
+
+Size: 5000
+  Update Time: 0.45s
+  Recommend Time: 0.0105s
+  Update Time Ratio: 0.00
+  Recommend Time Ratio: 1.15
+
+Size: 10000
+  Update Time: 1.07s
+  Recommend Time: 0.0097s
+  Update Time Ratio: 0.00
+  Recommend Time Ratio: 1.06
+
+Size: 50000
+  Update Time: 12.83s
+  Recommend Time: 0.0104s
+  Update Time Ratio: 0.01
+  Recommend Time Ratio: 1.13
+
+Size: 100000
+  Update Time: 44.11s
+  Recommend Time: 0.0120s
+  Update Time Ratio: 0.04
+  Recommend Time Ratio: 1.31
+
